@@ -22,6 +22,7 @@ Now that the rooms data has been restructured to load dynamically using the MVC 
 <br/>
 The data is now pulled from the MongoDB instead of the public .html file and data changes made on the admin site will be reflected on the customer site as well. 
 <br/>
+<br/>
 Additionally, I also created an API endpoint for "Rooms" : 
 <br/>
 
