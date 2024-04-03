@@ -27,3 +27,16 @@ Additionally, I also created an API endpoint for "Rooms" :
 <br/>
 
 <img width="923" alt="Screenshot 2024-04-03 100855" src="https://github.com/JessicaDuft/Data_Structure_Enhancement/assets/130928718/6ca802a9-75dc-49ac-ba0f-3dec1f403491">
+<br/>
+<br/>
+
+
+For this enhancement the following folders and files were added or modified :
+
+The following files were added in the app_api folder : 
+**\travlr\app_api\routes\rooms.js**
+**\travlr\app_api\controllers\rooms.js**
+**\travlr\app_api\models\room.js**
+
+Additionally lines 33-37 were added in the **\travlr_final\travlr\app.js** file and lines 19 , and lines 47-56 in the **\travlr_final\travlr\app_api\routes\index.js** file.
+
