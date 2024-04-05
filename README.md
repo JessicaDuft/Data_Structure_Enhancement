@@ -38,5 +38,14 @@ The following files were added in the app_api folder :
 **\travlr\app_api\controllers\rooms.js**
 **\travlr\app_api\models\room.js**
 
-Additionally lines 33-37 were added in the **\travlr_final\travlr\app.js** file and lines 19 , and lines 47-56 in the **\travlr_final\travlr\app_api\routes\index.js** file.
+Additionally the following files were edited : 
+<br/>
+lines 33-37 were added in the **\travlr_final\travlr\app.js** file and lines 19 , and lines 47-56 in the **\travlr_final\travlr\app_api\routes\index.js** file.
+<br/>
+**\travlr\app_server\views\rooms.hbs** - completely restructured to pull data from the database instead of pulling from static .html files
+<br/>
+**\travlr\app_server\routes\rooms.js (LINE 9)** 
+<br/>
+**\travlr\app_server\controllers\rooms.js**
+
 
