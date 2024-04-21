@@ -83,25 +83,25 @@ To sort the rooms from highest rate to lowest rate, I implemented MongoDB’s bu
 For this enhancement the following folders and files were added or modified :
 
 The following files were added in the app_api folder : 
-**\travlr\app_api\routes\rooms.js**
+[**\travlr\app_api\routes\rooms.js**](https://github.com/JessicaDuft/Data_Structure_Enhancement/blob/main/app_api/routes/rooms.js)
 <br/>
 
-**\travlr\app_api\controllers\rooms.js**
+[**\travlr\app_api\controllers\rooms.js**](https://github.com/JessicaDuft/Data_Structure_Enhancement/blob/main/app_api/controllers/rooms.js)
 <br/>
 
-**\travlr_final\travlr\app_api\models\room.js**
+[**\travlr_final\travlr\app_api\models\room.js**](https://github.com/JessicaDuft/Data_Structure_Enhancement/blob/main/app_api/models/room.js)
 <br/>
 
-**\travlr\app_api\controllers\sortUp.js**
+[**\travlr\app_api\controllers\sortUp.js**](https://github.com/JessicaDuft/Data_Structure_Enhancement/blob/main/app_api/controllers/sortUp.js)
 <br/>
 
-**\travlr\app_api\controllers\sortDown.js**
+[**\travlr\app_api\controllers\sortDown.js**](https://github.com/JessicaDuft/Data_Structure_Enhancement/blob/main/app_api/controllers/sortDown.js)
 <br/>
 
- **\travlr\app_api\routes\sortUp.js**
+ [**\travlr\app_api\routes\sortUp.js**](https://github.com/JessicaDuft/Data_Structure_Enhancement/blob/main/app_api/routes/sortUp.js)
  <br/>
 
-**\travlr\app_api\routes\sortDown.js**
+[**\travlr\app_api\routes\sortDown.js**](https://github.com/JessicaDuft/Data_Structure_Enhancement/blob/main/app_api/routes/sortDown.js)
 <br/>
 
 
@@ -109,23 +109,23 @@ The following files were added or modified in the app_server folder:
 <br/>
 
 
-**\travlr\app_server\controllers\sortUp.js**
+[**\travlr\app_server\controllers\sortUp.js**](https://github.com/JessicaDuft/Data_Structure_Enhancement/blob/main/app_server/controllers/sortUp.js)
 <br/>
 
-**\travlr\app_server\controllers\sortDown.js**
+[**\travlr\app_server\controllers\sortDown.js**](https://github.com/JessicaDuft/Data_Structure_Enhancement/blob/main/app_server/controllers/sortDown.js)
 <br/>
 
-**\travlr\app_server\routes\sortUp.js**
+[**\travlr\app_server\routes\sortUp.js**](https://github.com/JessicaDuft/Data_Structure_Enhancement/blob/main/app_server/routes/sortUp.js)
 <br/>
 
-**\travlr\app_server\routes\sortDown.js**
+[**\travlr\app_server\routes\sortDown.js**](https://github.com/JessicaDuft/Data_Structure_Enhancement/blob/main/app_server/routes/sortDown.js)
 <br/>
 
-**\travlr\app_server\views\rooms.hbs** – Edited handlebars file to include the sort price option 
+[**\travlr\app_server\views\rooms.hbs**](https://github.com/JessicaDuft/Data_Structure_Enhancement/blob/main/app_server/views/rooms.hbs) – Edited handlebars file to include the sort price option 
 <br/>
 
 
-Additionally lines 33-37, lines 58-62, and lines 73-78  were added in the **\travlr\app.js** file and lines 19-21 , and lines 49-88 were added in the **\travlr\app_api\routes\index.js** file.
+Additionally lines 33-37, lines 58-62, and lines 73-78  were added in the [**\travlr\app.js**](https://github.com/JessicaDuft/Data_Structure_Enhancement/blob/main/app.js) file and lines 19-21 , and lines 49-88 were added in the [**\travlr\app_api\routes\index.js**](https://github.com/JessicaDuft/Data_Structure_Enhancement/blob/main/app_api/routes/index.js) file.
 
 
 
